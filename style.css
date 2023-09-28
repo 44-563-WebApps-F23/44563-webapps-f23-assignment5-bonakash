@@ -1,3 +1,32 @@
-.container {
-    margin: 20px;
-  }
+.table th:hover {
+    background-color:grey;
+}
+.table th {
+background-color:beige;
+}
+.table td {
+background-color:greenyellow ;
+}
+.table td:hover {
+    background-color:blueviolet;
+}
+.scope td {
+    background-color:gainsboro;
+}
+.r1 {
+    border-color:yellowgreen;
+    }
+    .TABLE th, td {
+         width: 300px;
+         border: 2px solid black;
+         padding:300px;
+         margin: 300px;
+         font-family: 'Courier New', Courier, monospace;
+       }
+       .TABLE tr {
+        width: 300px;
+        border: 2px solid black;
+        padding:300px;
+        margin: 300px;
+        font-family: 'Courier New', Courier, monospace;
+      }
